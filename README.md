@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mttrin93
-- 👀 I’m interested in math, coding, machine learning and physics 
+- 👀 I’m interested in math, coding, machine learning and theoretical physics 
 - 📫 How to reach me: rinaldim1993@gmail.com
 
 <!---
