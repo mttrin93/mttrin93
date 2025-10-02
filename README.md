@@ -1,4 +1,4 @@
-Hi there 👋
+**Hi there** 👋
 
 I am a PostDoc in at the Theory Department of the Fritz Haber Institute of the Max Planck Society in Berlin.
 
