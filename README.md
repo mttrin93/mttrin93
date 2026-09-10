@@ -1,6 +1,6 @@
 **Hi there** 👋
 
-I am a AI Engineer with a PhD in Computational Physics, based in Berlin.
+I am a AI/ML Engineer with a PhD in Computational Physics, based in Berlin.
 
 🔬 Formerly a Research Scientist at the Fritz Haber Institute of the Max Planck Society, where I built and deployed production ML systems.
 
